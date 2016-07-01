@@ -35,9 +35,9 @@ Root|Meaning
 `→`|forward
 `~`|approximation
 `¡`|old
-`£`|west
+`£`|left
 `¤`|element
-`¥`|east
+`¥`|right
 `¦`|fracture
 `¨`|mind
 `®`|heart
@@ -51,3 +51,6 @@ Root|Meaning
 `¸`|edge
 `↻`|around
 `⇌`|path
+`↔`|horizontal
+`↕`|vertical
+`―`|land
