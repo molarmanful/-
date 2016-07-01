@@ -14,6 +14,6 @@ Root|Romanization|Meaning
 `+`|ad|addition
 `,`|pa|pause
 `-`|sb|subtraction
-`.`|en|end, stop, finish
+`.`|en|end
 `/`|lt|alternative
 `:`|ls|list
