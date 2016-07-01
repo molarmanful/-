@@ -15,5 +15,11 @@ Root|Romanization|Meaning
 `,`|pa|pause
 `-`|sb|subtraction
 `.`|en|end
-`/`|lt|alternative
-`:`|ls|list
+`/`|lt|alternation
+`:`|lS|list
+`;`|rl|relation
+`<`|ls|less
+`=`|ek|equality
+`>`|mo|more
+`?`|uk|unknown
+`@`|lc|location
