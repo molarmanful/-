@@ -41,8 +41,11 @@ Root|Meaning
 `ª`|female
 `¬`|negation
 `®`|heart
-`°`|
+`°`|level
 `¯`|over
 `±`|range
 `·`|center
+`¸`|edge
 `º`|male
+`×`|multiply
+`÷`|divide
