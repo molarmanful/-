@@ -9,7 +9,7 @@ Root|Meaning
 `$`|cost
 `%`|fraction
 `&`|union
-`'`|length
+`'`|size
 `*`|all
 `+`|addition
 `-`|subtraction
