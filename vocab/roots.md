@@ -59,3 +59,4 @@ Root|Meaning
 `³`|it
 `␣`|open
 `⫏`|closed
+`▒`|color
