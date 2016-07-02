@@ -57,3 +57,5 @@ Root|Meaning
 `¹`|me
 `²`|you
 `³`|it
+`␣`|open
+`⫏`|closed
