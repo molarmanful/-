@@ -19,3 +19,5 @@ Use any alphabetical character at the end of a word to "store" it as a variable.
 [`(¹ ² ³º)A ⇌£]  (I,you,it-male)=A path-left => You, he, and I go left.
 [A ⇌¥]  A path-left => We go left.
 ```
+##`«»`
+Use double-angle quotes to insert foreign words and phrases.
