@@ -54,3 +54,6 @@ Root|Meaning
 `↔`|horizontal
 `↕`|vertical
 `―`|land
+`¹`|me
+`²`|you
+`³`|it
