@@ -35,8 +35,8 @@ Root|Meaning
 `→`|forward
 `~`|approximation
 `¡`|old
-`£`|left
 `¤`|element
+`£`|left
 `¥`|right
 `¦`|fracture
 `¨`|mind
