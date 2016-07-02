@@ -21,3 +21,5 @@ Use any alphabetical character at the end of a word to "store" it as a variable.
 ```
 ##`«»`
 Use double-angle quotes to insert foreign words and phrases.
+##`0-9`
+These are just ordinary numbers. They simply act as roots.
