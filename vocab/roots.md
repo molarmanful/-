@@ -16,3 +16,11 @@ Root|Meaning
 `<`|SMALLER
 `!`|GOOD
 `¡`|BAD
+`¿`|KNOW
+`⇴`|WANT
+`♥`|FEEL
+`⦿`|SEE
+`𐑽`|HEAR
+`℗`|SAY
+`α`|WORD
+`↷`|DO
