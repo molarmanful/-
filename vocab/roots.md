@@ -29,3 +29,14 @@ Root|Meaning
 `~`|APPROXIMATE
 `↹`|TOUCH
 `‧`|PLACE
+`®`|HAVE
+`☥`|LIFE
+`☠`|DEATH
+`⊕`|TIME
+`↣`|FORWARD
+`↢`|BACKWARD
+`↥`|ABOVE
+`↧`|BELOW
+`⍆`|INSIDE
+`¬`|NOT
+`±`|MAYBE
