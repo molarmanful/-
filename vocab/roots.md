@@ -17,6 +17,7 @@ Root|Meaning
 `!`|GOOD
 `¡`|BAD
 `¿`|KNOW
+`?`|UNKNOWN
 `⇴`|WANT
 `♥`|FEEL
 `⦿`|SEE
