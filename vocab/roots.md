@@ -8,8 +8,8 @@ Root|Meaning
 `³`|IT
 `¶`|BODY
 `§`|PART
-`⇲`|HERE
-`⇱`|THERE
+`⇥`|HERE
+`↤`|THERE
 `=`|SAME
 `*`|ALL
 `>`|BIGGER
@@ -24,3 +24,7 @@ Root|Meaning
 `"`|SAY
 `α`|WORD
 `↷`|DO
+`⇸`|HAPPEN
+`↭`|MOVE
+`~`|APPROXIMATE
+`↹`|TOUCH
