@@ -1,4 +1,4 @@
-#Simple Sentences
+#Sentences
 All sentences are wrapped in brackets (`[]`).
 
 Rules for forming a sentence:
