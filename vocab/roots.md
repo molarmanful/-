@@ -20,7 +20,7 @@ Root|Meaning
 `⇴`|WANT
 `♥`|FEEL
 `⦿`|SEE
-`"`|HEAR
-`℗`|SAY
+`℗`|HEAR
+`"`|SAY
 `α`|WORD
 `↷`|DO
