@@ -42,3 +42,5 @@ Root|Meaning
 `¬`|NOT
 `±`|MAYBE
 `+`|MORE
+`º`|MALE
+`ª`|FEMALE
