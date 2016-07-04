@@ -1,25 +1,15 @@
 #Modifiers
 ##`()`
-Use parentheses to join several words into a list.
-
-```
-[`(¹ ²) ⇌?]  (I,you) path-unknown => Where should you and I go?
-```
+Use parentheses to join several words into a list. Can also be used on sentences.
 ##`{}`
-Use curly brackets inside words to join roots inside a word.
-
-```
-[`¹ ⇌?{/←→}]  I path-unknown-{alternation-backward-forward} => Should I go backward or forward?
-```
-Notice that `{/←→}` describes `?`, and `←→` describe `/`.
+Use curly brackets inside words to join roots inside a word as one describing root.
 ##`A-Za-z`
-Use any alphabetical character at the end of a word to "store" it as a variable. This is implemented to reduce pronoun ambiguities often present in many natural languages.
-
-```
-[`(¹ ² ³º)A ⇌£]  (I,you,it-male)=A path-left => You, he, and I go left.
-[A ⇌¥]  A path-left => We go left.
-```
+Use any alphabetical character at the end of a word to "store" it as a variable. Use it like any other root. This is implemented to reduce pronoun ambiguities often present in many natural languages.
 ##`«»`
 Use double-angle quotes to insert foreign words and phrases.
 ##`0-9`
 These are just ordinary numbers. They simply act as roots.
+##`⇒`
+This arrow is used between 2 sentences to create an if-then structure.
+##`→`
+This arrow is used between 2 sentences to create a cause-effect structure.
