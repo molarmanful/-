@@ -20,9 +20,9 @@ Root|Meaning
 `?`|UNKNOWN
 `⇴`|WANT
 `♥`|FEEL
-`⦿`|SEE
-`℗`|HEAR
-`"`|SAY
+`⦿`|LIGHT
+`"`|SOUND
+`℗`|SENSE
 `α`|WORD
 `↷`|DO
 `⇸`|HAPPEN
