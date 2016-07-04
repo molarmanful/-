@@ -9,6 +9,7 @@ Rules for forming a sentence:
 - Subjects must come before objects.
 - The word not marked as a subject or object is the predicate.
 - A sentence containing only the predicate (and optionally an object) is a command.
+- A sentence containing only a subject and object means that the subject has the qualities of the object.
 
 Example:
 
