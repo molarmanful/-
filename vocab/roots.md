@@ -28,3 +28,4 @@ Root|Meaning
 `↭`|MOVE
 `~`|APPROXIMATE
 `↹`|TOUCH
+`‧`|PLACE
