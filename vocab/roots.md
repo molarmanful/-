@@ -12,8 +12,8 @@ Root|Meaning
 `↤`|THERE
 `=`|SAME
 `*`|ALL
-`>`|BIGGER
-`<`|SMALLER
+`>`|BIG
+`<`|SMALL
 `!`|GOOD
 `¡`|BAD
 `¿`|KNOW
@@ -41,3 +41,4 @@ Root|Meaning
 `⍆`|INSIDE
 `¬`|NOT
 `±`|MAYBE
+`+`|MORE
