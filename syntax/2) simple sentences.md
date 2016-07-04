@@ -8,10 +8,14 @@ Rules for forming a sentence:
 - `´` comes before a word acting as the object of the sentence.
 - Subjects must come before objects.
 - The word not marked as a subject or object is the predicate.
+- A sentence containing only the predicate (and optionally an object) is a command.
 
 Example:
 
 ```
-[`¹ ⇌¯ ´―]  I path-over land => I go over land.
-[`¹ ´― ⇌¯]  (alternative ordering)
+[`¹ ♥ ´!]  I-sub. FEEL GOOD-obj.
+
+Alternative arrangements:
+[`¹ ´! ♥]
+[♥ `¹ ´!]
 ```
