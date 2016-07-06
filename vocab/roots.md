@@ -44,3 +44,4 @@ Root|Meaning
 `+`|MORE
 `º`|MALE
 `ª`|FEMALE
+`☺`|HUMAN
