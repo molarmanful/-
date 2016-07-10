@@ -43,6 +43,7 @@ Root|Meaning
 `¬`|NOT
 `±`|MAYBE
 `+`|MORE
+`×`|MULTIPLE
 `º`|MALE
 `ª`|FEMALE
 `☺`|HUMAN
@@ -57,7 +58,7 @@ Root|Meaning
 `◠`|ROUND
 `-`|FLAT
 `|`|STRAIGHT
-`#`|HARD
+`▮`|HARD
 `^`|SHARP
 `⦜`|SIT
 `⚘`|EAT
@@ -84,3 +85,18 @@ Root|Meaning
 `◐`|DAY
 `⦹`|COUNTRY
 `⌂`|HOME
+`⦀`|WOOD
+`⬬`|STONE
+`⬕`|METAL
+`⬚`|GLASS
+`░`|PAPER
+`☸`|WHEEL
+`‖`|PIPE
+`⦚`|WIRE
+`⚡`|ELECTRICITY
+`⚙`|MACHINE
+`⇓`|PARENT
+`$`|MONEY
+`▤`|BOOK
+`▓`|COLOR
+`#`|NUMBER
