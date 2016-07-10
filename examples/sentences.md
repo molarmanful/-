@@ -4,14 +4,14 @@ These are random sentences that demonstrate basic grammar and word construction.
 ---
 Do not look at the sun.
 ```
-[¬℗⦿ ´¶⦿↥>]
-NOT-SENSE-LIGHT BODY-LIGHT-ABOVE-BIG-obj.
+[⚆¬ ´☀]
+SEE-NOT SUN-obj.
 ```
 ---
 He failed, due to lack of money.
 ```
-[`³ºA ®{<+} ´↭{↣↢}⇴]→[`A ´¡]
-cause: (A=IT-MALE)-sub. HAVE-{SMALL-MORE} MOVE-{BACKWARD-FORWARD}-WANT-obj.
-effect: (A=IT-MALE)-sub. BAD-obj.
+[`³ºA ®0~ ´$]→[`A ´¡☥]
+cause: (A=IT-MALE)-sub. HAVE-0-APPROXIMATE MONEY-obj.
+effect: (A=IT-MALE)-sub. BAD-LIFE-obj.
 ```
 ---
