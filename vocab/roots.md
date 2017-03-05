@@ -1,5 +1,5 @@
 #Roots
-These are the fundamental elements of every word in Li. Roots are words in themselves, but can also be compounded to form more complex words.
+These are the fundamental elements of every word in Li. Roots are words in themselves, but can also be compounded to form more complex words. You may need a Unicode font to view all of the roots.
 
 Root|Meaning
 ---|---
@@ -20,7 +20,7 @@ Root|Meaning
 `⸮`|LEARN
 `?`|UNKNOWN
 `⇴`|WANT
-`♥`|FEEL
+``|FEEL
 `⦿`|LIGHT
 `"`|SOUND
 `℗`|SENSE
@@ -33,7 +33,7 @@ Root|Meaning
 `‧`|PLACE
 `®`|HAVE
 `☥`|LIFE
-`☠`|DEATH
+``|DEATH
 `⊕`|TIME
 `↣`|FORWARD
 `↢`|BACKWARD
@@ -46,8 +46,8 @@ Root|Meaning
 `×`|MULTIPLE
 `º`|MALE
 `ª`|FEMALE
-`☺`|HUMAN
-`☝`|HAND
+``|HUMAN
+``|HAND
 `_`|MOUTH
 `⚆`|EYE
 `⦷`|EAR
@@ -66,7 +66,7 @@ Root|Meaning
 `⦾`|HOLD
 `◡`|LAUGH
 `♪`|SING
-`✏`|WRITE
+``|WRITE
 `▯`|READ
 `⧈`|EDGES
 `⍈`|ENDS
@@ -74,13 +74,13 @@ Root|Meaning
 `♙`|CREATURE
 `♘`|ANIMAL
 `☫`|BIRD
-`♓`|FISH
+``|FISH
 `♧`|TREE
 `♁`|GROUND
-`☁`|SKY
-`☀`|SUN
-`♒`|WATER
-`♨`|FIRE
+``|SKY
+``|SUN
+``|WATER
+``|FIRE
 `❂`|YEAR
 `◐`|DAY
 `⦹`|COUNTRY
@@ -90,11 +90,11 @@ Root|Meaning
 `⬕`|METAL
 `⬚`|GLASS
 `░`|PAPER
-`☸`|WHEEL
+``|WHEEL
 `‖`|PIPE
 `⦚`|WIRE
-`⚡`|ELECTRICITY
-`⚙`|MACHINE
+``|ELECTRICITY
+``|MACHINE
 `⇓`|PARENT
 `$`|MONEY
 `▤`|BOOK
