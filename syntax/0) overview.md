@@ -1,7 +1,7 @@
-#Overview
+# Overview
 `"` is an language based on Unicode symbols. Its fundamental elements are roots, which represent basic ideas.
 
-#Features
+# Features
 **Oligosynthesis**: `"` has few roots, but these roots often join together to form larger words.
 
 **Loose Grammar**: More on this later; basically, roots and words can be moved around rather freely.
