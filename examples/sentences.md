@@ -1,4 +1,4 @@
-#Sentences
+# Sentences
 These are random sentences that demonstrate basic grammar and word construction.
 
 ---
