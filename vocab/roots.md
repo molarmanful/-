@@ -57,7 +57,7 @@ Root|Meaning
 `'`|LENGTH
 `◠`|ROUND
 `-`|FLAT
-`|`|STRAIGHT
+`\|`|STRAIGHT
 `▮`|HARD
 `^`|SHARP
 `⦜`|SIT
