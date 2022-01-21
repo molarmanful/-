@@ -51,6 +51,7 @@ Root|Meaning
 `_`|MOUTH
 `⚆`|EYE
 `⦷`|EAR
+`👃`|NOSE
 `☻`|HEAD
 `ɺ`|LEG
 `√`|FOOT

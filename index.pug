@@ -1,0 +1,31 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1')
+    title "
+    meta(name='description' content='An NSM linguistic experiment.')
+
+    link(rel='stylesheet' href='https://cdn.jsdelivr.net/npm/water.css@2/out/water.css')
+    link(rel='stylesheet' href='assets/style.css')
+
+  body(x-data='{mods: mods, map: map}')
+    .cols
+
+      .col
+        .group
+          template(x-for='mod in mods')
+            .mod: button(x-text='mod' :name='mod' @click='$refs.txt.value += mod')
+        br
+
+        .group
+          template(x-for='(word, sym) in map')
+            .word: button(x-text='sym + " " + word' :name='sym' @click='$refs.txt.value += sym')
+
+      .col
+        .group.fh
+          textarea.txt(x-ref='txt' x-init='$el.focus()' @blur='$el.focus()')
+
+    script(src='https://unpkg.com/alpinejs' defer)
+    script(src='assets/map.js')
+    script(src='assets/main.js')
